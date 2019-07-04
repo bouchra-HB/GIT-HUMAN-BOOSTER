@@ -1,4 +1,4 @@
-# Mon premier repository, c'est le dépot
+# Mon premier repository
 
 ## Lorem ipsum<hr>
 
