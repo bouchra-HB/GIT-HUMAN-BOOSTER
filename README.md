@@ -9,3 +9,6 @@ Saraceni tamen nec amici nobis umquam nec hostes optandi, ultro citroque discurs
 Mon 4ème COMMIT
 <br><br>
 Mon 5ème COMMIT genérer un conflit
+Mon 5ème COMMIT
+<br><br>
+Authentification test pour conflit numero 2
